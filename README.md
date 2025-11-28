@@ -141,8 +141,8 @@ O sistema aceita qualquer combinação válida de email/senha para fins de demon
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
-cd listareceitamobile
+git clone https://github.com/VictorRodrigues16/app_saude_mobile.git
+cd app_saude_mobile
 ```
 
 2. Instale as dependências:
