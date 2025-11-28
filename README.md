@@ -199,3 +199,14 @@ Desenvolvido como projeto acadêmico demonstrando:
 - Animações
 - Design responsivo
 - Boas práticas de código
+  
+---
+
+## 👨‍💻 Integrantes 
+ - ERICK MOLINA - RM 553852
+ - FELIPE CASTRO SALAZAR - RM 553464
+ - MARCELO VIEIRA DE MELO - RM 552953
+ - RAYARA AMARO FIGUEIREDO - RM 552635
+ - VICTOR RODRIGUES - RM 554158
+
+---
