@@ -2,6 +2,6 @@
 
 import HomeScreen from "../src/screens/HomeScreen"
 
-export default function SyntheticV0PageForDeployment() {
+export default function SyntheticPageForDeployment() {
   return <HomeScreen />
 }
